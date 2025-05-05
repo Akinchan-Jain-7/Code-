@@ -1,0 +1,1 @@
+# CNN model class code goes here
